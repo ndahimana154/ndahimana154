@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ndahimana154
+- 👀 I’m interested in Coding and Photoshoping
+- 🌱 I’m currently learning Node and Js React
+- 💞️ I’m looking to collaborate on different languages of web dev.
+- 📫 You can reach me throught Twitter and Instagram ndahimana154
