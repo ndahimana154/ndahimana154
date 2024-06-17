@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Bonheur NDAHIMANA 
-- 👀 I’m interested in Coding as my Work and also Hobby
-- 🌱 I’m a Junior Software Developer
-- 💞️ I like collaboration with the 🌎 world.
-- 📫 Am on Social medias as @ndahimana154
+Ndahimana Bonheur
