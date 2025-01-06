@@ -4,14 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ndahimana154&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-## Contributions
 <img src="https://github-readme-stats.vercel.app/api?username=ndahimana154&show_icons=true&theme=radical" alt="Ndahimana Bonheur's GitHub Stats" />
-
-<p align="center">
-  <a href="https://github.com/ndahimana154">
-    <img src="https://github-profile-trophy.vercel.app/?username=ndahimana154&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</p>
 
 ### About Me
 
