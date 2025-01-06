@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ndahimana154&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 ## Contributions
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=ndahimana154&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=ndahimana154&show_icons=true&theme=radical" alt="Ndahimana Bonheur's GitHub Stats" />
 
 <p align="center">
   <a href="https://github.com/ndahimana154">
