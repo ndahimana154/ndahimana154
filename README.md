@@ -5,106 +5,109 @@
   <img src="https://komarev.com/ghpvc/?username=ndahimana154&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ndahimana154&show_icons=true&theme=radical" alt="Ndahimana Bonheur's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndahimana154&theme=radical" alt="GitHub Streak" />
-</p>
+<!-- GitHub Stats with Animation -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ndahimana154&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndahimana154&theme=radical" alt="GitHub Streak" height="180" />
+</div>
 
-<!-- GitHub Contributions Chart -->
+<!-- Animated Snake Contributions -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ndahimana154&bg_color=0d1117&color=4c8df9&line=4c8df9&point=ffffff&area=true&hide_border=true" alt="GitHub Contributions Chart" />
+  <img src="https://raw.githubusercontent.com/ndahimana154/ndahimana154/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
 ## 🔥 **Top 10 Languages**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndahimana154&langs_count=10&layout=compact&theme=radical&hide_border=true&card_width=450" alt="Top Languages" />
+</div>
+
+---
+
+## 🚀 **Skills & Tools**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndahimana154&langs_count=10&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+---
+
+## 🌟 **Featured Projects**
+<div>
+  <a href="https://kickside.rw/clients/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndahimana154&repo=Kickside-Newspaper&theme=radical" alt="Kickside Newspaper" />
+  </a>
+  <a href="https://ndahimana154.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndahimana154&repo=portfolio&theme=radical" alt="Portfolio" />
+  </a>
+</div>
 
 ---
 
 ## 🎯 **About Me**
-- 🔭 **Current Focus**: Working on **Kickside Reinnovation** and expanding my expertise with **Python**.
-- 🌱 **Learning**: Mastering **Python Flask** to enhance **AI Models Development**.
-- 🏆 **Program Participation**: Attended the **Andela Technical Leadership Program** to advance as a Senior Software Engineer.
-- 📰 **Projects**: Building [Kickside Newspaper](https://kickside.rw/clients/) to innovate media solutions.
-- 👨‍💻 **Portfolio**: View my work at [My Portfolio](https://ndahimana154.vercel.app).
-- 📝 **Writing**: I share articles on software development at [Kickside](https://kickside.rw).
-- 💬 **Topics of Expertise**: Ask me about **Node.js**, **React.js**, **MongoDB**, **Express**, and **Redux**.
-- 📧 **Reach Out**: Email me at **ndahimana154@gmail.com** for collaboration or job opportunities.
+- 🔭 Building AI-powered solutions at **Kickside Reinnovation**
+- 🌱 Mastering **Python Flask** for AI model deployment
+- 🏆 Andela Technical Leadership Program Alumni
+- 💡 Passionate about building scalable systems
+- ✍️ Regular tech writer at [Kickside Blog](https://kickside.rw)
+- 📫 **Reach me**: ndahimana154@gmail.com
 
 ---
 
-## 🌐 **Connect with Me**
+## 📊 **GitHub Analytics**
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndahimana154&theme=radical" width="90%" />
+</div>
+
+---
+
+## 🤝 **Connect With Me**
 <p align="center">
-  <a href="https://linkedin.com/in/ndahimana154" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" />
+  <a href="https://linkedin.com/in/ndahimana154" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/ndahimanabonheur" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" width="40" />
+  <a href="https://twitter.com/ndahimana154" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.youtube.com/@YBonheur154" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="YouTube" height="40" width="40" />
+  <a href="https://ndahimana154.medium.com" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.youtube.com/@YBonheur154" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
 ---
 
-## ⚡ **Skills & Tools**
-<p align="center">
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-1174936.png" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" alt="React.js" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-64/redux-283024.png" alt="Redux" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-64/docker-11-1175228.png" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-64/git-18-1175219.png" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-64/express-1174976.png" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-64/bootstrap-226077.png" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174954.png" alt="TypeScript" width="40" height="40"/>
-  </a>
-</p>
+## 🏆 **GitHub Trophies**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ndahimana154&theme=radical&row=2&column=3" alt="GitHub Trophies" />
+</div>
 
 ---
 
-## 🏆 **Open Source Contributions**
-I believe in the power of open-source to drive innovation. Here’s how I contribute:
-- 🌟 Contributing to various open-source projects on [GitHub](https://github.com/ndahimana154).
-- 📚 Improving documentation, fixing bugs, and adding new features.
-- 🤝 Collaborating with developers worldwide to create meaningful projects.
+## 💭 **Dev Quote**
+> "First, solve the problem. Then, write the code."  
+> _- John Johnson_
 
 ---
 
-## 📊 **GitHub Contributions**
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ndahimana154&bg_color=0d1117&color=4c8df9&line=4c8df9&point=ffffff&area=true&hide_border=true" alt="GitHub Contributions Graph" />
-</p>
-
----
-
-## 🎉 **Fun Fact**
-I’m passionate about writing clean, efficient code and believe that **continuous learning** is the key to success. 🚀
-
----
-
-## 📩 **Contact**
-- 📧 Email: [ndahimana154@gmail.com](mailto:ndahimana154@gmail.com)
-- 🔗 LinkedIn: [https://linkedin.com/in/ndahimana154](https://linkedin.com/in/ndahimana154)
-- 🌎 Website: [https://ndahimana154.vercel.app](https://ndahimana154.vercel.app)
+## 📈 **Weekly Development Breakdown**
+```text
+Python        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   70% 
+JavaScript    🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜   30% 
